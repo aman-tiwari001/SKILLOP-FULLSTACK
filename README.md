@@ -50,7 +50,7 @@ Have questions or suggestions? Feel free to reach out to us:
 
 - **Email**: skillop.skills@gmail.com
 - **LinkedIn**: [SKILLOP Society](https://www.linkedin.com/company/skillop-society/)
-- **Instagram**: [@SKILLOP]([https://twitter.com/skillop_society](https://www.instagram.com/skillop.skill/))
+- **Instagram**: [@SKILLOP](https://www.instagram.com/skillop.skill/)
 
 We look forward to collaborating with you and creating an impactful website together!
 
