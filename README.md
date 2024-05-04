@@ -1,40 +1,56 @@
-# Skillop Website
+# SKILLOP 
 
-Welcome to the Skillop website repository! Skillop is a mentorship platform designed to connect mentors and mentees and foster skill development and collaboration. This README provides an overview of the Skillop website, its features, and how to get started.
+Welcome to the SKILLOP website repository! This repository contains the source code and assets for the SKILLOP Society website.
 
-## About Skillop
+## About SKILLOP Society
 
-Skillop is a platform developed by StartupX with the aim of empowering students and professionals to connect, learn, and grow together. Whether you're seeking mentorship, looking to share your expertise, or searching for opportunities to enhance your skills, Skillop offers a supportive community and a range of resources to help you succeed.
+SKILLOP Society is a student-led organization at Delhi Technological University committed to fostering technical prowess, personal growth, and community engagement among students. Our website serves as a central platform for showcasing our initiatives, events, projects, and resources aimed at empowering students to excel as skilled tech professionals.
 
-## Features
+## Website Features
 
-### 1. Mentor-Mentee Matching
-Skillop facilitates mentor-mentee matching based on interests, skills, and expertise. Mentors can share their knowledge and experience with mentees, while mentees can seek guidance and advice from mentors in their desired field.
-
-### 2. Skill Development Resources
-The Skillop website provides a variety of resources to support skill development, including articles, tutorials, and online courses. Users can access educational content tailored to their interests and career goals.
-
-### 3. Networking Opportunities
-Skillop offers networking opportunities through events, workshops, and forums. Users can connect with like-minded individuals, participate in discussions, and expand their professional network.
-
-### 4. Project Collaboration
-The platform facilitates project collaboration, allowing users to form teams and work on collaborative projects. Whether it's a coding project, a startup venture, or a research initiative, Skillop provides a platform for collaboration and innovation.
-
-### 5. Job and Internship Opportunities
-Skillop features job and internship listings from partner companies and organizations. Users can explore job opportunities, apply for positions, and connect with potential employers.
+- **Home**: Learn about SKILLOP Society's mission, vision, and upcoming events.
+- **About Us**: Discover more about our society, leadership team, and our journey so far.
+- **Events**: Stay updated on our latest events, workshops, competitions, and tech talks.
+- **Projects**: Explore our ongoing and past projects developed by SKILLOP members.
+- **Posting**: Users have the opportunity to publish their achievements and showcase their skills. Additionally, the Society can disseminate information about its activities and events through this platform.
+- **Mentorship**: Junior members have access to one-on-one mentorship sessions with senior members, facilitating knowledge transfer and personal development.
+- **Mini Tech Competition**: Participants can engage in Mini Tech Competitions, providing a stepping stone towards larger-scale competitions, thereby enhancing their readiness and competitiveness in the field.
+- **Resources**: Access useful resources, tutorials, and guides curated by SKILLOP for students' academic and professional growth.
+- **Contact**: Connect with us via email, LinkedIn, Instagram, or through our online contact form.
 
 ## Getting Started
 
-To get started with the Skillop website, you can do to skillop.in 
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone`.
+2. **Go to Frontend directory**: Go to Frontend directory in your local machine using `cd frontend`
+3. **Install Dependencies**: Install any necessary dependencies by running `npm install` or `yarn install`.
+4. **Run the Application**: Start the development server by running `npm start` or `yarn start`.
+5. **Contribute**: If you'd like to contribute to the website, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
-For more detailed instructions, refer to the [documentation](link-to-documentation).
+## Technologies Used
+
+- **React**: Frontend framework for building the user interface.
+- **React Router**: Library for handling routing within the application.
+- **Styled Components**: CSS-in-JS library for styling components.
+- **Express**: For backend of the site.
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to the Skillop website, please follow our [contribution guidelines](link-to-guidelines) and submit a pull request.
+We welcome contributions from all members of the SKILLOP community. Whether you're a frontend developer, designer, or content creator, there are many ways to contribute:
+
+- Report bugs or suggest features by opening an issue.
+- Fork the repository, make your changes, and submit a pull request.
+- Improve existing features, design elements, or content on the website.
+- Spread the word about SKILLOP by sharing our website with your network.
+
+For more information on how to contribute, please see our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Contact Us
 
-If you have any questions or feedback, feel free to reach out to us at [contact@email.com](mailto:contact@email.com). We'd love to hear from you!
+Have questions or suggestions? Feel free to reach out to us:
 
-Happy learning and networking with Skillop!
+- **Email**: skillop.skills@gmail.com
+- **LinkedIn**: [SKILLOP Society](https://www.linkedin.com/company/skillop-society/)
+- **Instagram**: [@SKILLOP]([https://twitter.com/skillop_society](https://www.instagram.com/skillop.skill/))
+
+We look forward to collaborating with you and creating an impactful website together!
+
