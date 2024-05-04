@@ -52,11 +52,16 @@ import SideNav from '../SideNav/SideNav';
 import TermsOfService from '../Misc Pages/TermsOfService';
 import AuthorizeZoomMeet from '../dashboard/bookings/AuthorizeZoomMeet';
 
+
 // import HashtagPage from '../../api/hashtag';
 
 import NotFoundPage from '../NotFoundPage/NotFoundPage';
 import Admin_Users from '../Admin Panel/Admin_Users';
 import Admin_Dashboard from '../Admin Panel/Admin_Dashboard';
+import admin_pg1 from '../admin page 1/admin_pg1';
+import admin_pg2 from '../Admin page 2/admin_pg2';
+import admin_pg3 from '../Admin page 3/admin_pg3';
+
 
 
 function WebPages({
@@ -101,7 +106,12 @@ function WebPages({
     '/admin',
     '/admin/skillop-dtu/1941',
     '/Admin_Dashboard' ,
-    '/Admin_Users'
+    '/Admin_Users',
+    '/admin_pg1',
+    '/admin_pg2',
+    '/admin_pg3',
+    '/NotFoundPage'
+
 
     // Add more routes as needed
   ];
@@ -314,6 +324,23 @@ function WebPages({
         <Route
           path='/searchbar'
           element={<Searchbar setProgress={setProgress} />}
+        />
+        <Route
+        path='admin_pg1'
+        element={<admin_pg1 setProgress={setProgress}/>}
+        />
+         <Route
+        path='admin_pg2'
+        element={<admin_pg2 setProgress={setProgress}/>}
+        />
+         <Route
+        path='admin_pg3'
+        element={<admin_pg3 setProgress={setProgress}/>}
+        />
+
+<Route
+        path='NotFoundPage'
+        element={<NotFoundPage setProgress={setProgress}/>}
         />
 
         <Route
