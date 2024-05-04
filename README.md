@@ -1,6 +1,6 @@
 # SKILLOP 
 
-Welcome to the SKILLOP website repository! This repository contains the source code and assets for the SKILLOP Society website.
+Welcome to the SKILLOP website repository! 
 
 ## About SKILLOP Society
 
