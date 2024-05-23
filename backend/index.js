@@ -17,7 +17,7 @@ const adminRoutes = require('./src/routes/adminRoutes');
 const commentRouters = require('./src/routes/commentRoutes');
 const hashtagRoutes = require('./src/routes/hashtagRoutes');
 const meetingRoutes = require('./src/routes/meetingRoutes');
-// const NotFound = require('./src/middleware/NotFound.js')
+//const NotFound = require('./src/middleware/NotFound.js')
 require('dotenv').config();
 // console.log(process.env.JWT_KEY);
 const app = express();
